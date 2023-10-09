@@ -80,3 +80,9 @@ Convolution Neural Networks are usually used for image processing. So, for this 
 16. An embedding matrix is formed for all the words in the Tokenizer using glove vectors.
 
 17. The model is then built using TensorFlow.
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
