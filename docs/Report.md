@@ -85,52 +85,58 @@ Plotting a graph between Class labels and the count on Number of documents
 From the above bar chart it is clear that
 
 All the class labels has equal number of documents except for the soc.religion.christian class label.
+</br>
 soc.religion.christian class label has 997 documents while all the other class labels have 1000 documents.
+</br>
 We can say that the dataset is almost balanced one.
+</br>
 </br>
 ![Alt text](../Assets/Image1.png)
 </br>
 </br>
 **Line chart showing the mean file size of each newsgroup**
 </br>
+</br>
 ![Alt text](../Assets/Image2.png)
+</br>
 </br>
 **Observations:**
 </br>
 From the above line chart it can be observed that the
-
-talk.religion.misc has got the highest mean file size.
+</br>
+talk.religion.misc has got the highest mean file size.</br>
 soc.religion.christian has got the lowest mean file size.
+</br>
 </br>
 **Data Cleaning**
 </br>
 created a dataframe out of email, subject, text and dir_labels lists
 <br>
-![Alt text](../Assets/Image3.png)
+![Alt text](../Assets/Image4.png)
 </br>
 </br>
 extracted the length of the words for each row in the text and assigned new column by name text_word_count.
 </br>
-![Alt text](../Assets/Image4.png)
+![Alt text](../Assets/Image5.png)
 </br>
 </br>
 **Distribution of word count in text column**
 </br>
-![Alt text](../Assets/Image5.png)
+![Alt text](../Assets/Image6.png)
 </br>
 Most of the word counts in the text column are less than 1000.
 </br>
 </br>
 Displaying Word cloud for Text column of the dataset
 </br>
-![Alt text](../Assets/Image6.png)
+![Alt text](../Assets/Image7.png)
 </br>
 **Observation:** Ohio state is highly used word in the news article. News articles must have covered most of its news from Ohio state.
 </br>
 </br>
 Displaying word cloud for subject column
 </br>
-![Alt text](../Assets/Image7.png)
+![Alt text](../Assets/Image8.png)
 </br>
 </br>
 **Observation:** From the above word cloud, It can be observed that the sale and year are highly used words in the subject of news articles.
@@ -138,13 +144,11 @@ Displaying word cloud for subject column
 </br>
 **CNN ARCHITECTURE**
 </br>
-![Alt text](../Assets/Image8.png)
+![Alt text](../Assets/Image9.png)
 </br>
 </br>
 **CNN Model Performance**
 </br>
 Train and Test Accuracies of 95% and 93% Without Overfitting
 </br>
-![Alt text](../Assets/Image9.png)
-
 ![Alt text](../Assets/Image10.png)
