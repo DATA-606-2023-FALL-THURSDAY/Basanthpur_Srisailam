@@ -111,23 +111,29 @@ soc.religion.christian has got the lowest mean file size.
 **Data Cleaning**
 </br>
 created a dataframe out of email, subject, text and dir_labels lists
-<br>
+</br>
+</br>
 ![Alt text](../Assets/Image4.png)
 </br>
 </br>
+</br>
 extracted the length of the words for each row in the text and assigned new column by name text_word_count.
+</br>
 </br>
 ![Alt text](../Assets/Image5.png)
 </br>
 </br>
 **Distribution of word count in text column**
 </br>
+</br>
 ![Alt text](../Assets/Image6.png)
+</br>
 </br>
 Most of the word counts in the text column are less than 1000.
 </br>
 </br>
 Displaying Word cloud for Text column of the dataset
+</br>
 </br>
 ![Alt text](../Assets/Image7.png)
 </br>
@@ -135,6 +141,7 @@ Displaying Word cloud for Text column of the dataset
 </br>
 </br>
 Displaying word cloud for subject column
+</br>
 </br>
 ![Alt text](../Assets/Image8.png)
 </br>
@@ -144,11 +151,13 @@ Displaying word cloud for subject column
 </br>
 **CNN ARCHITECTURE**
 </br>
+</br>
 ![Alt text](../Assets/Image9.png)
 </br>
 </br>
 **CNN Model Performance**
 </br>
 Train and Test Accuracies of 95% and 93% Without Overfitting
+</br>
 </br>
 ![Alt text](../Assets/Image10.png)
