@@ -81,8 +81,22 @@ Convolution Neural Networks are usually used for image processing. So, for this 
 
 17. The model is then built using TensorFlow.
 
-![Alt text](image.png)
+![Alt text](../Assets/Image1.png)
 
-![Alt text](image-1.png)
+![Alt text](../Assets/Image2.png)
 
-![Alt text](image-2.png)
+![Alt text](../Assets/Image3.png)
+
+![Alt text](../Assets/Image4.png)
+
+![Alt text](../Assets/Image5.png)
+
+![Alt text](../Assets/Image6.png)
+
+![Alt text](../Assets/Image7.png)
+
+![Alt text](../Assets/Image8.png)
+
+![Alt text](../Assets/Image9.png)
+
+![Alt text](../Assets/Image10.png)
