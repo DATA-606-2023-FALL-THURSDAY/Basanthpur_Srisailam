@@ -87,13 +87,14 @@ From the above bar chart it is clear that
 All the class labels has equal number of documents except for the soc.religion.christian class label.
 soc.religion.christian class label has 997 documents while all the other class labels have 1000 documents.
 We can say that the dataset is almost balanced one.
-
+<br/>
 ![Alt text](../Assets/Image1.png)
-
+<br/>
+<br/>
 **Line chart showing the mean file size of each newsgroup**
-
+<br/>
 ![Alt text](../Assets/Image2.png)
-
+<br/>
 **Observations:**
 From the above line chart it can be observed that the
 
