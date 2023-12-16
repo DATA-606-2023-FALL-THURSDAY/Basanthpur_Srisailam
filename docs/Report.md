@@ -94,6 +94,8 @@ We can say that the dataset is almost balanced one.
 ![Alt text](../Assets/Image1.png)
 </br>
 </br>
+</br>
+</br>
 **Line chart showing the mean file size of each newsgroup**
 </br>
 </br>
@@ -106,6 +108,7 @@ From the above line chart it can be observed that the
 </br>
 talk.religion.misc has got the highest mean file size.</br>
 soc.religion.christian has got the lowest mean file size.
+</br>
 </br>
 </br>
 **Data Cleaning**
@@ -123,6 +126,7 @@ extracted the length of the words for each row in the text and assigned new colu
 ![Alt text](../Assets/Image5.png)
 </br>
 </br>
+</br>
 **Distribution of word count in text column**
 </br>
 </br>
@@ -132,12 +136,14 @@ extracted the length of the words for each row in the text and assigned new colu
 Most of the word counts in the text column are less than 1000.
 </br>
 </br>
+</br>
 Displaying Word cloud for Text column of the dataset
 </br>
 </br>
 ![Alt text](../Assets/Image7.png)
 </br>
 **Observation:** Ohio state is highly used word in the news article. News articles must have covered most of its news from Ohio state.
+</br>
 </br>
 </br>
 Displaying word cloud for subject column
@@ -149,10 +155,12 @@ Displaying word cloud for subject column
 **Observation:** From the above word cloud, It can be observed that the sale and year are highly used words in the subject of news articles.
 </br>
 </br>
+</br>
 **CNN ARCHITECTURE**
 </br>
 </br>
 ![Alt text](../Assets/Image9.png)
+</br>
 </br>
 </br>
 **CNN Model Performance**
@@ -161,3 +169,14 @@ Train and Test Accuracies of 95% and 93% Without Overfitting
 </br>
 </br>
 ![Alt text](../Assets/Image10.png)
+</br>
+</br>
+</br>
+**Comparision between Machine Learning Algorithms and CNN Accuracies**
+
+</br>
+![Alt text](../Assets/Image11.png)
+</br>
+**Observations:**
+</br>
+We can observe that the CNN has outperformed both logistic regression and Random Forest in terms of accuracies.
