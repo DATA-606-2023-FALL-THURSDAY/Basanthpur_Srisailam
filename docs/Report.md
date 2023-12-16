@@ -90,7 +90,15 @@ We can say that the dataset is almost balanced one.
 
 ![Alt text](../Assets/Image1.png)
 
+**Line chart showing the mean file size of each newsgroup**
+
 ![Alt text](../Assets/Image2.png)
+
+**Observations:**
+From the above line chart it can be observed that the
+
+talk.religion.misc has got the highest mean file size.
+soc.religion.christian has got the lowest mean file size.
 
 ![Alt text](../Assets/Image3.png)
 
