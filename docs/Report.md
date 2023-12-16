@@ -81,6 +81,13 @@ Convolution Neural Networks are usually used for image processing. So, for this 
 
 17. The model is then built using TensorFlow.
 
+Plotting a graph between Class labels and the count on Number of documents
+From the above bar chart it is clear that
+
+All the class labels has equal number of documents except for the soc.religion.christian class label.
+soc.religion.christian class label has 997 documents while all the other class labels have 1000 documents.
+We can say that the dataset is almost balanced one.
+
 ![Alt text](../Assets/Image1.png)
 
 ![Alt text](../Assets/Image2.png)
